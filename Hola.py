@@ -1,2 +1,3 @@
 # comment
-print("hola mundo")
+nombre ="Jose"
+print(nombre)
